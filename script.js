@@ -1,7 +1,6 @@
 //your JS code here. If required.
 const array = [1,2,3,4];
 const div = document.getElementById("output");
-div.innerHTML = array;
 
 function dataHandler() {
 	const data = new Promise((resolve, reject) => {
